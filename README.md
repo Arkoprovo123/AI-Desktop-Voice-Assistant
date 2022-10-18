@@ -4,7 +4,7 @@ AI Desktop Voice Assistant is a project built using Microsoft's Speech API, SAPI
 
 <h3>Ojective of the project</h3>
 
-The program is made for personal use to minimise the effort of opening a website, searching about a famous person or topic on Wikipedia and to know the time and date, without the help of mouse clicks and keyboard.
+The program named 'Jarvis' inspired from the movie "Iron Man" is made for personal use to minimise the effort of opening a website, searching about a famous person or topic on Wikipedia and to know the time and date, without the help of mouse clicks and keyboard.
 
 The further goal is to add plenty other functions to this project to make it versatile. 
 
